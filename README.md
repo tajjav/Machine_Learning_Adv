@@ -1,5 +1,4 @@
 # Machine_Learning_Adv
-# Practical Machine Learning 
 Practical machine learning notebook & articles cover the machine learning life cycle.
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Practical-Machine-Learning.svg)](https://github.com/youssefHosni/Practical-Machine-Learning/blob/master/LICENSE)
